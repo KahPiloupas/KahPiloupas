@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estudo Desenvolvimento Full Stack pela escola Let's Code e pretendo ingressar na área Tech. Formada em Matemática pela Universidade Federal Fluminense (RJ)
-- 🌱 Estudando Módulo II Java Web
+- 🌱 Estudando Módulo III Java Web e cursando a faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
