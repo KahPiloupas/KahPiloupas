@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Karina Piloupas 
 
 
-- 🔭 Hoje estudo Desenvolvimento Full Stack pela escola Let's Code e pretendo ingressar na área Tech. Formada em Matemática pela Universidade Federal Fluminense (RJ)
-- 🌱 Estudando Módulo III Java Web e cursando a faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+- 🔭 Sou formada em Desenvolvimento Full Stack pela escola Let's Code e pretendo ingressar na área Tech. Formada em Matemática pela Universidade Federal Fluminense (RJ)
+- 🌱 Cursando a faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+- 🔭 Tenho estudado Phyton e a área de Data Science
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -15,6 +16,8 @@
   <img align="center" alt="Kah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Kah-git" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    
   <img align="center" alt="Kah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Kah-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
