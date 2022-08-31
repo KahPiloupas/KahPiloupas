@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Karina Piloupas 
 
 
-- 👩🏼‍🎓 Sou formada em Desenvolvimento Full Stack pela escola Let's Code e pretendo ingressar na área Tech. Formada em Matemática pela Universidade Federal Fluminense (RJ)
+- 👩🏼‍🎓 Sou formada em Desenvolvimento Full Stack pela escola Let's Code e ingressei na área Tech Desenvolvimento iOS. Formada em Matemática pela Universidade Federal Fluminense (RJ)
 - 🌱 Cursando a faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
-- 🔭 Tenho estudado Phyton e a área de Data Science
+- 🔭 Tenho estudado Swift e tudo aquilo que envolva Desenvolvimento Mobile.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
